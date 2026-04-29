@@ -93,7 +93,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[NAMANRAI1212]/[IMPACT-OF-LIFESTYLE-DUE-TO-LIPID-PROFILES].git
+git clone https://github.com/just-vishal2004/IMPACT-OF-LIFESTYLE-DUE-TO-LIPID-PROFILES.git
 Install Dependencies:
 
 Ensure you have R Studio (v4.2.1) and the required packages (dplyr, tidyr, ggplot2, cowplot, summarytools, psych) .
@@ -118,10 +118,10 @@ This project was submitted in partial fulfillment for the award of the degree of
 
 
 
-Author: Naman Rai (22BIT70058).
+Author: Vishal Kumar (22BIT70052).
 
 
-Supervisor: Er. Abhishek Tiwari (e15792).
+Supervisor: Er. Tejinder Pal Singh.
 
 
 
